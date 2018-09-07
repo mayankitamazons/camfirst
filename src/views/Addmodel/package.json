@@ -1,0 +1,6 @@
+{
+  "name": "Addmodel",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./Addmodel.js"
+}
